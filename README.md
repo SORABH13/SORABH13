@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sourabh-yogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-[<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="dd" alt="Sourabh Yogi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://rc" alt="Sourabh Yogi" height="30" width="40" /></a>]:
+<a href="https://TEST.COMM" target="blank"><img align="center" src="dd" alt="Sourabh Yogi" height="30" width="40" /></a>
+<a href="TEST.COMM" target="blank"><img align="center" src="https://rc" alt="Sourabh Yogi" height="30" width="40" /></a>
   
 </p>
 
